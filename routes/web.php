@@ -33,15 +33,11 @@ Route::get('/login', function () {
 Route::get('/loginwrong', function () {
     return view('loginwrong');
 });
-
-
 Route::get('/landingp', function () {
     return view('landingp', [
         "title" => "Home Page"
     ]);
 });
-
-
 Route::get('/userlist', function () {
     return view('user', [
         "title" => "User List"

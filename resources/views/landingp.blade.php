@@ -27,7 +27,7 @@
             <img src="https://down-aka-id.img.susercontent.com/60a86bbea07f3264042dcbb319fb9e3b_tn" alt="">
         </div>
         <div class="text-center mt-4 name">
-            <b>My Business</b>
+            <b>My Store</b>
         </div>
         <div class="text-center mt-4 name">
             I've got this new small gig going on, it's in the fashion business, and I'm marketing it on one of the biggest e-commerce platforms in Indonesia.
